@@ -1,3 +1,5 @@
+## material ui optimize
+
 # React sAlert component
 
 sAlert is a React component which provides alerts or notifications with rich configuration possibilities.
